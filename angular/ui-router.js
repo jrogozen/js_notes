@@ -34,7 +34,7 @@ angular.module('Eggly', [
       }
     })
 })
-.cotroller('CategoriesCntrl', function CategoriesCtrl($scope) {
+.controller('CategoriesCntrl', function CategoriesCtrl($scope) {
 
 })
 
