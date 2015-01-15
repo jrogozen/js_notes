@@ -1,4 +1,4 @@
-//Function Scope
+//Function Scopes
 
 var numbers = [1,2,3]
 
